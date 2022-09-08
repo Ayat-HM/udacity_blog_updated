@@ -1,0 +1,46 @@
+
+@import url("../css/main.css");
+@import url("../css/media.css");
+/* Using a url */
+
+
+.content {
+
+    display: grid;
+    grid-template-columns: 100%;
+
+
+}
+
+.card {
+    padding: 40px;
+}
+
+.btn {
+    padding: 10px 30px;
+    box-shadow: 4px 4px 10px lightgrey;
+    border: 1px solid lightgray;
+    margin: 20px;
+}
+
+.person {
+    border: 1px solid lightgray;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    padding: 50px;
+}
+
+.author-img {
+    border-radius: 50%;
+    width: 79px;
+    margin: 30px;
+}
+
+.post-img {
+    width: 60%;
+}
+
+.links a {
+    padding: 10px;
+}
