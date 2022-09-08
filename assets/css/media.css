@@ -58,6 +58,11 @@
 
         margin: 10px;
     }
+    .person {
+ 
+  flex-direction: column;
+
+}
 }
 
 
@@ -116,6 +121,11 @@
 
         margin: 10px;
     }
+    .person {
+ 
+  flex-direction: column;
+
+}
 }
 
 /*   769px — 1024px: Small screens, laptops*/
